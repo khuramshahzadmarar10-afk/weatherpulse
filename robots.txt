@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khuramshahzadmarar10-afk.github.io/weatherpulse/sitemap.xml
