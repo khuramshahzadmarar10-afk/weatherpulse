@@ -1,0 +1,5 @@
+# WeatherPulse
+> Live weather for every city: current temperature, feels-like, hourly temperature graph, rain chances, wind, humidity, UV index, sunrise and sunset, and a 7-day forecast. Free, no sign-up.
+
+- Home: https://khuramshahzadmarar10-afk.github.io/weatherpulse/
+- Sitemap: https://khuramshahzadmarar10-afk.github.io/weatherpulse/sitemap.xml
